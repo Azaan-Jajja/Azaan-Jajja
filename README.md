@@ -17,4 +17,6 @@ I’m a Computer Science student at Royal Holloway, University of London, passio
 ### Languages
 <a href=""> <img src="https://skillicons.dev/icons?i=js,html,css,java,c" height="40" /> </a>
 ### Frameworks & Libraries
-<a href=""> <img src="https://skillicons.dev/icons?i=react,spring,nextjs" height="40" /> </a>
+<a href=""> <img src="https://skillicons.dev/icons?i=react,spring,nextjs,tailwind" height="40" /> </a>
+### Developer Tools
+<a href="https://github.com/tandpfun/skill-icons"> <img src="https://skillicons.dev/icons?i=postman,git,docker" height="40" /> </a>
