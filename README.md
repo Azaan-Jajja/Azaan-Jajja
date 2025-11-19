@@ -8,3 +8,7 @@ I’m a Computer Science student at Royal Holloway, University of London, passio
 + Advanced Spring Boot concepts
 + React Native (up next!)
 
+
+# Connect with Me
+<a href="https://www.linkedin.com/in/azaan-j-083718233/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
