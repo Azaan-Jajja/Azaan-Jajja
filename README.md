@@ -6,5 +6,5 @@ I’m a Computer Science student at Royal Holloway, University of London, passio
 
 ## What I'm Learning
 + Advanced Spring Boot concepts
-
++ React Native (up next!)
 
